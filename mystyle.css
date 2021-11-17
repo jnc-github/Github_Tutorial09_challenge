@@ -9,3 +9,15 @@ h1 {
     transition: background-color .5s, color .5s;
     margin-bottom: 20px;
 }
+
+li {
+    color: blue;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 1px solid rgb(100, 100, 255);
+    background-color: white;
+    transition: background-color .5s, color .5s;
+    margin-bottom: 20px;
+}
